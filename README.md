@@ -1,2 +1,2 @@
 # blackjack
-A simple blackjack script for QBCore.
+A blackjack script for QBCore.
